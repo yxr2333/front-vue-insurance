@@ -1,0 +1,21 @@
+{
+  "success": true,
+  "message": "success",
+  "code": 200,
+  "timestamp": 1646547759034,
+  "result": {
+    "productId": 150642571432839,
+    "salePrice": 29.00,
+    "productName": "坚果 3 TPU 软胶透明保护套",
+    "subTitle": "轻薄透明、完美贴合、TPU 环保材质",
+    "limitNum": 100,
+    "productImageBig": "https://resource.smartisan.com/resource/5e4b1feddb13639550849f12f6b2e202.jpg",
+    "detail": "<img src=\"https://resource.smartisan.com/resource/fda5d962cc2b2e579c5df1c3d9e2f2c8.jpg\" style=\"width:1220px;height:4957px;\" alt=\"\" />",
+    "productImageSmall": [
+      "https://resource.smartisan.com/resource/5e4b1feddb13639550849f12f6b2e202.jpg",
+      "https://resource.smartisan.com/resource/0477d8b177db197a0b09a18e116b2bca.jpg",
+      "https://resource.smartisan.com/resource/b66d7e832339cf240b13a9a91107abdc.jpg",
+      "https://resource.smartisan.com/resource/56db3c83cca697572fa8a1df2e3172d7.jpg"
+    ]
+  }
+}

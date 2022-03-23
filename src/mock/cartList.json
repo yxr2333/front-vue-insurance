@@ -1,0 +1,71 @@
+{
+  "success": true,
+  "message": "success",
+  "code": 200,
+  "timestamp": 1646306131727,
+  "result": [
+    {
+      "productId": 150642571432835,
+      "salePrice": 1.00,
+      "productNum": 1,
+      "limitNum": 100,
+      "checked": "1",
+      "productName": "捐赠商品",
+      "productImg": "https://ooo.0o0.ooo/2020/07/24/6BV9uTwaqModbYL.png"
+    },
+    {
+      "productId": 150642571432850,
+      "salePrice": 199.00,
+      "productNum": 1,
+      "limitNum": 100,
+      "checked": "1",
+      "productName": "ACIL E1 颈挂式蓝牙耳机",
+      "productImg": "https://resource.smartisan.com/resource/406eddef8808fa5a9be9594d07ef8643.jpg"
+    },
+    {
+      "productId": 150642571432840,
+      "salePrice": 89.00,
+      "productNum": 16,
+      "limitNum": 100,
+      "checked": "1",
+      "productName": "Smartisan 半入耳式耳机",
+      "productImg": "https://resource.smartisan.com/resource/9c1d958f10a811df841298d50e1ca7c0.jpg"
+    },
+    {
+      "productId": 150642571432844,
+      "salePrice": 2999.00,
+      "productNum": 86,
+      "limitNum": 100,
+      "checked": "1",
+      "productName": "畅呼吸智能空气净化器超级除甲醛版",
+      "productImg": "https://resource.smartisan.com/resource/71432ad30288fb860a4389881069b874.png"
+    },
+    {
+      "productId": 679533,
+      "salePrice": 69.00,
+      "productNum": 1,
+      "limitNum": 100,
+      "checked": "1",
+      "productName": "Smartisan 坚果自拍杆",
+      "productImg": "http://image.smartisanos.cn/resource/afe5728faa22f4b078b84d9c725c136d.jpg"
+    },
+    {
+      "productId": 150642571432851,
+      "salePrice": 2699.00,
+      "productNum": 16,
+      "limitNum": 100,
+      "checked": "1",
+      "productName": "优点智能 E1 推拉式智能指纹密码锁",
+      "productImg": "https://resource.smartisan.com/resource/7ac3af5a92ad791c2b38bfe1e38ee334.jpg"
+    },
+    {
+      "productId": 150642571432841,
+      "salePrice": 49.00,
+      "productNum": 186,
+      "limitNum": 100,
+      "checked": "1",
+      "productName": "坚果 3 TPU 软胶保护套",
+      "productImg": "https://resource.smartisan.com/resource/b899d9b82c4bc2710492a26af021d484.jpg"
+    }
+  ]
+}

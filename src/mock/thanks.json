@@ -1,0 +1,67 @@
+{
+  "success": true,
+  "message": "success",
+  "code": 200,
+  "timestamp": 1645359457306,
+  "result": {
+    "success": true,
+    "draw": 0,
+    "recordsTotal": 1356,
+    "recordsFiltered": 0,
+    "error": null,
+    "data": [
+        {
+          "id": 1,
+          "type": "radio",
+          "question": "是否有慢性疾病？",
+          "radios": [
+            "是",
+            "否"
+          ]
+        },
+        {
+          "id": 2,
+          "type": "radio",
+          "question": "已参加哪类基本保险？",
+          "radios": [
+            "寿险",
+            "重疾险",
+            "医疗险",
+            "意外险",
+            "财产保险"
+          ]
+        },
+        {
+          "id": 3,
+          "type": "radio",
+          "question": "新冠肺炎疫情发生之前，是否有买商业健康险？",
+          "radios": [
+            "是",
+            "否"
+          ]
+        },
+        {
+          "id": 4,
+          "type": "radio",
+          "question": "疫情发生后，是否有购买？",
+          "radios": [
+            "是",
+            "否"
+          ]
+        },
+        {
+          "id": 5,
+          "type": "radio",
+          "question": "发生以后，您购买的是哪种类型的商业健康保险？",
+          "radios": [
+            "寿险",
+            "重疾险",
+            "医疗险",
+            "意外险",
+            "财产保险",
+            "未购买"
+          ]
+        }
+    ]
+  }
+}

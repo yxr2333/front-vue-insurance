@@ -1,0 +1,21 @@
+{
+  "success": true,
+  "message": "success",
+  "code": 200,
+  "timestamp": 1645349150844,
+  "result": {
+    "id": null,
+    "username": null,
+    "phone": null,
+    "email": null,
+    "sex": null,
+    "address": null,
+    "file": null,
+    "description": null,
+    "points": null,
+    "balance": null,
+    "state": 0,
+    "token": null,
+    "message": "用户登录已过期"
+  }
+}
